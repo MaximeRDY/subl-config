@@ -1,15 +1,8 @@
 <snippet>
-    <content><![CDATA[class ${1:Model}Controller < ApplicationController
-	before_filter :find_${2:model}
-
-	$0
-
-	private
-	def find_${2}
-		@$2 = ${3:$1}.find(params[:id]) if params[:id]
-	end
+    <content><![CDATA[class ${1:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}} < ${2:Application}Controller
+  $3
 end]]></content>
-    <tabTrigger>cla</tabTrigger>
+    <tabTrigger>con</tabTrigger>
     <scope>source.ruby</scope>
     <description>Create controller class</description>
 </snippet>

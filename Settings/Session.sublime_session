@@ -331,6 +331,14 @@
 					}
 				},
 				{
+					"file": "/home/maxime/work/Libertrip/app/controllers/admin/travel_agents_controller.rb",
+					"settings":
+					{
+						"buffer_size": 945,
+						"line_ending": "Unix"
+					}
+				},
+				{
 					"file": "/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
 					"settings":
 					{
@@ -379,10 +387,10 @@
 					}
 				},
 				{
-					"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection",
+					"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection.js",
 					"settings":
 					{
-						"buffer_size": 183,
+						"buffer_size": 232,
 						"line_ending": "Unix"
 					}
 				},
@@ -393,17 +401,29 @@
 						"buffer_size": 217,
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/home/maxime/work/Libertrip/app/presenters/travel_agents/admin_index_presenter.rb",
+					"settings":
+					{
+						"buffer_size": 283,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 291.0,
+				"height": 337.0,
 				"selected_items":
 				[
 					[
 						"in pa",
 						"Package Control: Install Package"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
 					],
 					[
 						"in",
@@ -443,12 +463,14 @@
 			},
 			"file_history":
 			[
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/search_view/search_collection.js",
+				"/home/maxime/work/Libertrip/app/controllers/cost_estimates_controller.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection",
 				"/home/maxime/work/Libertrip/app/models/activity.rb",
 				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/cost_estimate_view/city_search_collection.js",
 				"/home/maxime/work/Libertrip/app/models/concerns/BelongsToTravelAgent.rb",
 				"/home/maxime/work/Libertrip/app/models/concerns/stepable.rb",
 				"/home/maxime/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/maxime/work/Libertrip/app/controllers/cost_estimates_controller.rb",
 				"/home/maxime/work/Libertrip/db/migrate/20130820083348_add_travel_agent_id_to_cost_estimates.rb",
 				"/home/maxime/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 				"/home/maxime/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
@@ -531,7 +553,7 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 5,
 					"sheets":
 					[
 						{
@@ -658,8 +680,8 @@
 								"selection":
 								[
 									[
-										676,
-										676
+										239,
+										239
 									]
 								],
 								"settings":
@@ -673,15 +695,43 @@
 								"zoom_level": 1.0
 							},
 							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/maxime/work/Libertrip/app/controllers/admin/travel_agents_controller.rb",
+							"settings":
+							{
+								"buffer_size": 945,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										319,
+										319
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 6,
+					"selected": 8,
 					"sheets":
 					[
 						{
-							"buffer": 5,
+							"buffer": 6,
 							"file": "/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
 							"settings":
 							{
@@ -709,7 +759,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 7,
 							"file": "/home/maxime/work/Libertrip/app/controllers/admin/cost_estimates_controller.rb",
 							"settings":
 							{
@@ -720,8 +770,8 @@
 								"selection":
 								[
 									[
-										237,
-										237
+										73,
+										73
 									]
 								],
 								"settings":
@@ -737,7 +787,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 8,
 							"file": "/home/maxime/work/Libertrip/app/presenters/trips/explore_presenter.rb",
 							"settings":
 							{
@@ -765,7 +815,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 8,
+							"buffer": 9,
 							"file": "/home/maxime/work/Libertrip/app/models/cost_estimate.rb",
 							"settings":
 							{
@@ -793,7 +843,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 9,
+							"buffer": 10,
 							"file": "/home/maxime/work/Libertrip/app/models/concerns/belongs_to_travel_agent.rb",
 							"settings":
 							{
@@ -819,7 +869,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 10,
+							"buffer": 11,
 							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/cost_estimate_view.js",
 							"settings":
 							{
@@ -836,33 +886,9 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection",
-							"settings":
-							{
-								"buffer_size": 183,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										183,
-										183
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -872,6 +898,32 @@
 						},
 						{
 							"buffer": 12,
+							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection.js",
+							"settings":
+							{
+								"buffer_size": 232,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										232,
+										232
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
 							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/assign_modal_view.js",
 							"settings":
 							{
@@ -889,6 +941,32 @@
 								"settings":
 								{
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/maxime/work/Libertrip/app/presenters/travel_agents/admin_index_presenter.rb",
+							"settings":
+							{
+								"buffer_size": 283,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										278,
+										278
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -952,6 +1030,26 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"travelagentp",
+						"app/presenters/travel_agents/admin_index_presenter.rb"
+					],
+					[
+						"admintravela",
+						"app/controllers/admin/travel_agents_controller.rb"
+					],
+					[
+						"admincost",
+						"app/controllers/admin/cost_estimates_controller.rb"
+					],
+					[
+						"costes",
+						"app/controllers/cost_estimates_controller.rb"
+					],
+					[
+						"searchcol",
+						"app/assets/javascripts/views/components/search_view/search_collection.js"
+					],
 					[
 						"citysearch",
 						"app/assets/javascripts/views/pages/configure/cost_estimate_view/city_search_collection.js"
@@ -1094,7 +1192,7 @@
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 238.0,
 			"status_bar_visible": true,
 			"window_id": 1,
