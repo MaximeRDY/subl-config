@@ -1,0 +1,62 @@
+{
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		".scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"bin",
+		".bundle",
+		"vendor/cache",
+		"tmp",
+		"coverage"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"mid_line_tabs": false,
+	"rulers":
+	[
+		70,
+		80
+	],
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": false,
+	"use_tab_stops": true
+}

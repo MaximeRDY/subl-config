@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+alt+b"], "command": "quick_rails_bundle_install" }, // Bundle Install
+  { "keys": ["ctrl+alt+g"], "command": "quick_rails_generators" }, // Rails Generators
+  { "keys": ["ctrl+alt+r"], "command": "quick_rails_rake_tasks" }  // Rake Tasks
+]
