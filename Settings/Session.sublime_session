@@ -1,10 +1,12 @@
 {
 	"folder_history":
 	[
+		"/home/maxime/work/brazil-margaux/site",
+		"/home/maxime/work/Rails-Carrierwave-jQuery-File-Upload",
 		"/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/cost_estimates_index",
 		"/home/maxime/work/Libertrip"
 	],
-	"last_window_id": 2,
+	"last_window_id": 26,
 	"settings":
 	{
 		"new_window_height": 0.0,
@@ -14,17 +16,745 @@
 			{
 				"selected_items":
 				[
+					[
+						"_bi",
+						"_bindModelEvents"
+					],
+					[
+						"_ini",
+						"_initCitiesChooserView"
+					],
+					[
+						"city-",
+						"city-results"
+					],
+					[
+						"initDe",
+						"initDepartureCityChooserView"
+					],
+					[
+						"desti",
+						"destination"
+					],
+					[
+						"newT",
+						"newTabAction"
+					],
+					[
+						"tab",
+						"tabAction"
+					],
+					[
+						"tabA",
+						"tabActions"
+					],
+					[
+						"destroy",
+						"destroy"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"des",
+						"destination"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"cl",
+						"cla	class .. < ParentClass .. initialize .. end"
+					],
+					[
+						"createNe",
+						"createNewTripView"
+					],
+					[
+						"_cr",
+						"_createDestinationNewLink"
+					],
+					[
+						"_l",
+						"_linkOutlets"
+					],
+					[
+						"addIn",
+						"addInfoObjectToHtml"
+					],
+					[
+						"search",
+						"search_and_merge_all_result"
+					],
+					[
+						"searc",
+						"search_admin_codes"
+					],
+					[
+						"sear",
+						"search_countries"
+					],
+					[
+						"dest",
+						"destinationObjectCollectio"
+					],
+					[
+						"coll",
+						"collections"
+					],
+					[
+						"_createS",
+						"_createSearchFormView"
+					],
+					[
+						"poi",
+						"points_by_admin_codes"
+					],
+					[
+						"hm",
+						"hm	has_many"
+					],
+					[
+						"co",
+						"con	Create controller class"
+					],
+					[
+						"it",
+						"itenerary"
+					],
+					[
+						"or",
+						"origin"
+					],
+					[
+						"cla",
+						"cla	class .. end"
+					],
+					[
+						"flag",
+						"flags_only_flights"
+					],
+					[
+						"point",
+						"point_to_position"
+					],
+					[
+						"auth",
+						"authenticate"
+					],
+					[
+						"faceb",
+						"facebookUser"
+					],
+					[
+						"setUs",
+						"setUserToRegistrationViewAndPushI"
+					],
+					[
+						"authen",
+						"authentifications"
+					],
+					[
+						"find",
+						"find_by_email"
+					],
+					[
+						"Faceb",
+						"FacebookGuest"
+					],
+					[
+						"facebook",
+						"facebook_ajax"
+					],
+					[
+						"devise",
+						"devise_scope"
+					],
+					[
+						"getUser",
+						"getUserSuccess"
+					],
+					[
+						"fa",
+						"facebookButton"
+					],
+					[
+						"face",
+						"facebookButtonView"
+					],
+					[
+						"respon",
+						"responseLogin"
+					],
+					[
+						"login",
+						"loginSuccess"
+					],
+					[
+						"removeAll",
+						"removeAllError"
+					],
+					[
+						"navi",
+						"navigation"
+					],
+					[
+						"naviga",
+						"navigationView"
+					],
+					[
+						"removeLo",
+						"removeLoaderOnForm"
+					],
+					[
+						"sign",
+						"signInError"
+					],
+					[
+						"sin",
+						"signInError"
+					],
+					[
+						"lis",
+						"listenTo"
+					],
+					[
+						"acc",
+						"accomodation"
+					],
+					[
+						"acco",
+						"accomodations"
+					],
+					[
+						"Date",
+						"Date"
+					],
+					[
+						"mod",
+						"mod	module .. end"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"content",
+						"content-choose-mode"
+					],
+					[
+						"resl",
+						"result"
+					],
+					[
+						"cas",
+						"case	case … end"
+					],
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"resu",
+						"result_api"
+					],
+					[
+						"fromMo",
+						"fromModelCoordinatesToLatLngs"
+					],
+					[
+						"tra",
+						"transport_steps"
+					],
+					[
+						"dire",
+						"direction_id"
+					],
+					[
+						"dir",
+						"direction"
+					],
+					[
+						"get",
+						"get_connexion"
+					],
+					[
+						"parse",
+						"parse_lat_lng"
+					],
+					[
+						"act",
+						"activitiesSteps"
+					],
+					[
+						"wit",
+						"withoutAccommodations"
+					],
+					[
+						"list",
+						"listenTo"
+					],
+					[
+						"aciti",
+						"activitiesDockView"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"dis",
+						"disabled"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"tr",
+						"transport_price"
+					],
+					[
+						"trans",
+						"transport_step_id"
+					],
+					[
+						"res",
+						"result_api"
+					],
+					[
+						"all",
+						"all_category_price"
+					],
+					[
+						"_create",
+						"_createPriceOptionsView"
+					],
+					[
+						"tran",
+						"transportStep"
+					],
+					[
+						"assi",
+						"assignAppend"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"fet",
+						"fetchPriceOptions"
+					],
+					[
+						"transportMode",
+						"transportModeRadiosView"
+					],
+					[
+						"extend",
+						"extend"
+					],
+					[
+						"head",
+						"header	Header-coffee"
+					],
+					[
+						"select",
+						"selectedIndexHasChanged"
+					],
+					[
+						"last_",
+						"last_date_time"
+					],
+					[
+						"prev",
+						"previous"
+					],
+					[
+						"model",
+						"model"
+					],
+					[
+						"onChan",
+						"OnChangeStartDate"
+					],
+					[
+						"begin",
+						"begin_position"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"price",
+						"price_category_name"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"medium",
+						"medium_options"
+					],
+					[
+						"hi",
+						"high_options"
+					],
+					[
+						"dee",
+						"deeplink_params"
+					],
+					[
+						"first",
+						"first_fare"
+					],
+					[
+						"min",
+						"minimum_price"
+					],
+					[
+						"dep",
+						"departure_point_id"
+					],
+					[
+						"bann",
+						"banner-ruby	Banner-ruby"
+					],
+					[
+						"ban",
+						"banner-ruby	Banner-ruby"
+					],
+					[
+						"ba",
+						"banner-ruby	Banner-ruby"
+					],
+					[
+						"che",
+						"checkout_at"
+					],
+					[
+						"check",
+						"checkin_at"
+					],
+					[
+						"inter",
+						"inter_step"
+					],
+					[
+						"creet",
+						"create_inter_step"
+					],
+					[
+						"create",
+						"create_ts_and_ps"
+					],
+					[
+						"night",
+						"night_minutes"
+					],
+					[
+						"imp",
+						"import_accommodation"
+					],
+					[
+						"be",
+						"begin_position"
+					],
+					[
+						"bein",
+						"begin_checkout_at"
+					],
+					[
+						"trip",
+						"trip"
+					],
+					[
+						"chk",
+						"checkin_at"
+					],
+					[
+						"in",
+						"in_date"
+					],
+					[
+						"nu",
+						"number_night"
+					],
+					[
+						"ch",
+						"checkout_at"
+					],
+					[
+						"has",
+						"has_many"
+					],
+					[
+						"nam",
+						"nam	namespace :.. do .. end"
+					],
+					[
+						"post",
+						"post_connexion"
+					],
+					[
+						"rad",
+						"radios_view"
+					],
+					[
+						"geta",
+						"getAccommodationView"
+					],
+					[
+						"att",
+						"attr	Ruby attr_accessor"
+					],
+					[
+						"ad",
+						"adults_count"
+					],
+					[
+						"far",
+						"fares_query_type"
+					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 222.0,
+				"height": 374.0,
 				"selected_items":
 				[
 					[
+						"in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"re",
+						"File: Rename"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"r",
+						"File: Rename"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"inp",
+						"Package Control: Install Package"
+					],
+					[
 						"in pa",
 						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"Format: Ruby"
+					],
+					[
+						"set coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"lin",
+						"CoffeeLint: Lint code"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"compi",
+						"Coffee: Compile File"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"fo",
+						"Format: Ruby"
+					],
+					[
+						"for",
+						"Format: Ruby"
+					],
+					[
+						"set ej",
+						"Set Syntax: EJS (<% and %>)"
+					],
+					[
+						"set ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"set co",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"cofe lin",
+						"CoffeeLint: Lint code"
+					],
+					[
+						"edit",
+						"Project: Edit"
+					],
+					[
+						"set rub",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"en",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"enc",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"ejs",
+						"Set Syntax: EJS (<% and %>)"
+					],
+					[
+						"lis pa",
+						"Package Control: List Packages"
+					],
+					[
+						"snip",
+						"Snippet: if"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"d",
+						"File: Delete"
+					],
+					[
+						"form ",
+						"Format: Ruby"
+					],
+					[
+						"m",
+						"File: Move"
+					],
+					[
+						"acti ",
+						"Snippet: module using ActiveSupport::Concern"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"prefen",
+						"Preferences: Settings - User"
+					],
+					[
+						"RENAM",
+						"File: Rename"
+					],
+					[
+						"form j",
+						"Format: Javascript"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"fomr",
+						"Format: Ruby"
+					],
+					[
+						"fom",
+						"Format: Javascript"
+					],
+					[
+						"file",
+						"File: Move"
+					],
+					[
+						"rn",
+						"File: Rename"
+					],
+					[
+						"set ry",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"settin",
+						"Preferences: Settings - User"
+					],
+					[
+						"set js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"set ejs",
+						"Set Syntax: EJS (<% and %>)"
+					],
+					[
+						"set rails",
+						"Set Syntax: Ruby on Rails"
 					],
 					[
 						"in l",
@@ -43,7 +773,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 498.0
+				"width": 543.0
 			},
 			"console":
 			{
@@ -60,28 +790,163 @@
 			},
 			"file_history":
 			[
-				"/home/maxime/work/Libertrip/app/views/admin/cost_estimates/show.html.haml",
-				"/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
-				"/home/maxime/work/Libertrip/app/views/admin/cost_estimates/_cost_estimates.html.haml",
-				"/home/maxime/work/Libertrip/app/models/concerns/clonable.rb",
-				"/home/maxime/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/configure/inspector_view/_edge_step_content_view.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/edge_step_content_view.js",
+				"/home/maxime/work/Libertrip/config/routes/0default.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/city_chooser_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/templates/pages/configure/edge_step_inspector/edge_step_content.jst.ejs",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/popin_view/popin_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/common/views/datepickers/departure_datepicker_view.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/components/_popin_view.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/libraries/backbone/backbone.assignation.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/helpers/_mixins.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/common/views/datepicker_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/share_view/share_view.js",
+				"/home/maxime/work/Libertrip/app/views/components/popin_view.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/configure/configure.css.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/timeline_view/edge_step_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkboxes_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_list_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/step_checkboxes.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/_checkboxes.js.coffee",
+				"/home/maxime/work/Libertrip/app/views/trips/configure.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkbox_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/templates/pages/configure/step_management_inspector/step_checkbox.jst.ejs",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/location.js",
+				"/home/maxime/work/Libertrip/app/models/point.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/step_checkbox.js.coffee",
+				"/home/maxime/work/Libertrip/lib/tasks/destinations.rake",
+				"/home/maxime/work/Libertrip/app/models/admin_code.rb",
+				"/home/maxime/work/Libertrip/app/models/destination.rb",
+				"/home/maxime/work/Libertrip/app/models/destination_link.rb",
+				"/home/maxime/work/Libertrip/app/controllers/points_controller.rb",
+				"/home/maxime/work/Libertrip/app/queries/point_top.rb",
+				"/home/maxime/work/Libertrip/app/queries/point_top_by_trip.rb",
+				"/home/maxime/work/Libertrip/app/models/trip.rb",
+				"/home/maxime/work/Libertrip/app/models/destination_trip.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/map_view/map_view.js.erb",
 				"/home/maxime/work/Libertrip/Gemfile",
-				"/home/maxime/work/Libertrip/views/admin/cost_estimates/show.html.haml",
-				"/home/maxime/work/Libertrip/lib/tasks/trips.rake",
-				"/home/maxime/work/Libertrip/lib/tasks/cities.rake",
 				"/home/maxime/work/Libertrip/config/database.yml",
-				"/home/maxime/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-				"/home/maxime/work/Libertrip/app/views/attributes_experts/new.html.haml"
+				"/home/maxime/work/Libertrip/app/views/admin/group_kind_tags/_form.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/cities/_form.html.haml",
+				"/home/maxime/work/Libertrip/db/migrate/20131127100139_add_is_edge_stepable_to_points.rb",
+				"/home/maxime/work/Libertrip/app/assets/templates/plan/slides/trip_co_create_slide.jst.ejs",
+				"/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/_nav_dashboard.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/_user_main_menu.html.haml",
+				"/home/maxime/work/Libertrip/app/models/user.rb",
+				"/home/maxime/work/Libertrip/config/routes.rb",
+				"/home/maxime/work/Libertrip/app/views/trips/show.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/init.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/routers/application_router.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/views/top_sections/social_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/views/top_sections_view.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/sketch/content/_dashboard.scss",
+				"/home/maxime/work/Libertrip/app/views/trips/_header.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/trips/index.html.haml",
+				"/home/maxime/work/Libertrip/app/views/home/index.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/_header_signed_in_left.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/_header_unsigned_in_left.html.haml",
+				"/home/maxime/work/Libertrip/config/locales/views/home/en.yml",
+				"/home/maxime/work/Libertrip/app/models/transport.rb",
+				"/home/maxime/work/Libertrip/app/controllers/transports_controller.rb",
+				"/home/maxime/work/Libertrip/app/models/airplane.rb",
+				"/home/maxime/work/Libertrip/app/models/fake_flight_api.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/create_trip_modal_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/views/home/dashboard.html.haml",
+				"/home/maxime/work/Libertrip/app/controllers/trips_controller.rb",
+				"/home/maxime/work/Libertrip/app/services/new_trip_with_destination.rb",
+				"/home/maxime/work/Libertrip/config/locales/views/trips/en.yml",
+				"/home/maxime/work/Libertrip/app/decorators/base_decorator.rb",
+				"/home/maxime/work/Libertrip/app/serializers/trip_configure/ghost_step_serializer.rb",
+				"/home/maxime/work/Libertrip/app/serializers/trip_configure/inter_step_serializer.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/configure_manifest.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/timeline_view/poi_step_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/timeline_view/ghost_step_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/destination_modal_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/destinations_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/destination_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/basics/_buttons.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/home/_destination_modal.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/pages/home/dashboard_init.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/basics/_colors.scss",
+				"/home/maxime/work/Libertrip/app/models/country.rb",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/home/dashboard.css.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/home/_create_trip_modal.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/modal_view/modal_view.js",
+				"/home/maxime/work/Libertrip/db/migrate/20131126102659_create_destination_trips.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131126102511_create_destination_trips.rb",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/basics/_simplepage.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/helpers/_brick.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/helpers/_elements.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/basics/_basics.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/basics/_base.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/sketch/generics/_mixins.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/generics/modal_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/new_trip_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/explore/connection_view/connection_modal_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/dashboard_manifest.js",
+				"/home/maxime/work/Libertrip/app/presenters/trips/explore_presenter.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/trip_index_manifest.js",
+				"/home/maxime/work/Libertrip/app/controllers/home_controller.rb",
+				"/home/maxime/work/Libertrip/app/presenters/home/index_connected_presenter.rb",
+				"/home/maxime/work/Libertrip/app/serializers/home_dashboard/destination_serializer.rb",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/basics/_fonts.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/home_manifest.js",
+				"/home/maxime/work/Libertrip/app/presenters/home/index_connected.rb",
+				"/home/maxime/work/Libertrip/app/serializers/home_dashboard/destination.rb",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/home/home.css.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/trips_index/trips_index.css.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/helpers/_newcontent_blocks.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/helpers/_newcontent.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/new_trip_view.js.cofee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/dashboard/discussion_modal_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/controllers/application_controller.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/user_session.js.coffee",
+				"/home/maxime/work/Libertrip/app/controllers/sessions_controller.rb",
+				"/home/maxime/work/Libertrip/app/views/home/home.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/destinations/new.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/destinations/index.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/admin/destinations.css.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/admin/_default.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/admin_destination_form_manifest.js",
+				"/home/maxime/work/Libertrip/app/views/admin/destinations/edit.html.haml",
+				"/home/maxime/work/Libertrip/app/controllers/admin/destinations_controller.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/destinations_form/destination_links_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/views/admin/destinations/_form.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/destinations/_destination_link_fields.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/admin_application.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/admin_application.css.scss",
+				"/home/maxime/work/Libertrip/app/controllers/destinations_controller.rb"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 115.0,
 				"where_history":
 				[
+					"/home/maxime/work/Libertrip/app/",
+					"/home/maxime/work/Libertrip/app/views/notifier",
+					"/home/maxime/work/Libertrip/",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/assets",
+					"/home/maxime/work/Libertrip/",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/app/models",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip/app/assets/stylesheet",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/app",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip/app/helpers",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip"
 				]
 			},
 			"find_state":
@@ -89,18 +954,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"Trip",
+					"CityChooserView",
+					"departure",
+					"App.Views.PopinView",
+					"200",
+					"getPictureUrl",
+					"App.Views.StepCheckboxesView",
+					"highlighted",
+					"expert",
+					"Common.Views.ExpertsListView",
+					"component",
+					"...",
+					"params",
+					";\n",
+					"200",
+					"trips",
+					"iscussion",
+					"home",
+					"Home",
+					"after_sign_in_path_for",
+					"pry",
+					"afterSelected",
+					"class_name ",
+					"display_input",
 					"trip",
-					"Trip",
-					"trip",
-					"accomdation_row",
-					"libertrip",
-					"roger",
-					"libertrip",
-					"myapp_test",
-					"myapp",
-					"myapp_test",
-					"myapp"
+					"new",
+					"endR",
+					"Integer",
+					"api",
+					"accomdations",
+					"true",
+					"form-horizontal",
+					"this",
+					"modal",
+					"className",
+					"this",
+					"    \n",
+					"connector_provider_data",
+					"create_by_facebook",
+					"    \n",
+					"authReponse",
+					"users",
+					"first trip",
+					"Claire",
+					"Lesage",
+					"libertrip_development",
+					"coffee-rails",
+					"height",
+					"value",
+					".shake",
+					"PointStepContentNavigationView",
+					"App.views.connectionView",
+					"showModal",
+					"\nrenderForm\n\nrenderForm\n",
+					"alert(\"error\")",
+					"alert('error')",
+					"self",
+					"ConnectionView",
+					"rr",
+					"hotel",
+					"CsvToAccommodation",
+					"CsvCloud",
+					"this",
+					"@",
+					"(@start_date",
+					"@",
+					"haml",
+					"timeline_bar",
+					"haml",
+					"i18n",
+					"hamlcoffee",
+					"phrase",
+					"self",
+					"didResize:",
+					"didAppear:",
+					"getInspectorContent",
+					"_createInspectorContent",
+					"App.Views.TransportStepInspectorView",
+					"ts",
+					"self.origin",
+					":float",
+					"key",
+					"latitude",
+					"$CIRCLE_SHA1",
+					"BRANCH",
+					"refs/heads/master",
+					"Configure",
+					"has_many",
+					"setElement",
+					"delegateEvents()",
+					"_bindEvents()",
+					"tyes",
+					"MAX_CELLS",
+					"back-button",
+					"button-back",
+					"btn-back",
+					"back",
+					";\n",
+					"activities",
+					"App.Views.RadioView",
+					"type",
+					"App.Views.RadioView",
+					"number",
+					"transportOptionsView",
+					"installTransportOptionsView",
+					"TransportOptionsView",
+					"transportOptionsView",
+					"transportStep",
+					"transports",
+					"transport_step",
+					"_elementHasBeenUnpicked\n_elementHasBeenPicked\n_elementHasBeenPicked",
+					"category_name",
+					"mysqli",
+					"departure",
+					"Transport",
+					".",
+					"delete",
+					"    \n",
+					"row",
+					"pointStep",
+					"TransportStep",
+					"city",
+					"pointStep",
+					"PointStep",
+					"pointStep",
+					"city",
+					"best_fares",
+					"fares",
+					"_"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -121,7 +1102,7 @@
 			},
 			"input":
 			{
-				"height": 37.0
+				"height": 41.0
 			},
 			"layout":
 			{
@@ -153,6 +1134,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.CoffeeLintPanel":
+			{
+				"height": 134.0
+			},
 			"output.exec":
 			{
 				"height": 128.0
@@ -168,97 +1153,537 @@
 				"selected_items":
 				[
 					[
-						"tripsindexint",
-						"app/assets/javascripts/admin/pages/trips_index/trip_index_init.js"
+						"checboxes",
+						"app/assets/javascripts/views/components/checkboxes_view/checkboxes_view.js.coffee"
 					],
 					[
-						"admintripindex",
-						"app/assets/javascripts/admin_trip_index_manifest.js"
+						"backbonass",
+						"app/assets/javascripts/libraries/backbone/backbone.assignation.js"
 					],
 					[
-						"admintripinde",
-						"app/views/admin/trips/index.html.haml"
+						"popinvijs",
+						"app/assets/javascripts/views/components/popin_view/popin_view.js"
 					],
 					[
-						"tripsinde",
-						"app/views/trips/index.html.haml"
+						"edgestepcont",
+						"app/assets/templates/pages/configure/edge_step_inspector/edge_step_content.jst.ejs"
 					],
 					[
-						"clona",
-						"app/models/concerns/clonable.rb"
+						"scrollview",
+						"app/assets/javascripts/views/components/scroll_view/scroll_view.js"
 					],
 					[
-						"_cost",
-						"app/views/admin/cost_estimates/_cost_estimates.html.haml"
+						"0defu",
+						"config/routes/0default.rb"
 					],
 					[
-						"gemf",
+						"helpermix",
+						"app/assets/stylesheets/helpers/_mixins.scss"
+					],
+					[
+						"backboneass",
+						"app/assets/javascripts/libraries/backbone/backbone.assignation.js"
+					],
+					[
+						"componentpoi",
+						"app/assets/stylesheets/components/_popin_view.scss"
+					],
+					[
+						"datepickervi",
+						"app/assets/javascripts/common/views/datepicker_view.js"
+					],
+					[
+						"departe",
+						"app/assets/javascripts/common/views/datepickers/departure_datepicker_view.js"
+					],
+					[
+						"compopinvi",
+						"app/assets/javascripts/views/components/popin_view/popin_view.js"
+					],
+					[
+						"componpop",
+						"app/assets/javascripts/views/components/popin_view/popin_view.js"
+					],
+					[
+						"configurecss",
+						"app/assets/stylesheets/pages/configure/configure.css.scss"
+					],
+					[
+						"routesde",
+						"config/routes/0default.rb"
+					],
+					[
+						"popinvie",
+						"app/views/components/popin_view.html.haml"
+					],
+					[
+						"edgestepconti",
+						"app/assets/stylesheets/pages/configure/inspector_view/_edge_step_content_view.scss"
+					],
+					[
+						"edgestepcon",
+						"app/assets/templates/pages/configure/edge_step_inspector/edge_step_content.jst.ejs"
+					],
+					[
+						"inspectoredg",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/edge_step_content_view.js"
+					],
+					[
+						"edgestepvie",
+						"app/assets/javascripts/views/pages/configure/timeline_view/edge_step_view.js"
+					],
+					[
+						"modelpoint",
+						"app/models/point.rb"
+					],
+					[
+						"stepcheckjst",
+						"app/assets/templates/pages/configure/step_management_inspector/step_checkbox.jst.ejs"
+					],
+					[
+						"stepchc",
+						"app/assets/javascripts/models/steps/step_checkbox.js.coffee"
+					],
+					[
+						"stepcheckboxvi",
+						"app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkbox_view.js.coffee"
+					],
+					[
+						"tripconfi",
+						"app/views/trips/configure.html.haml"
+					],
+					[
+						"checkbo",
+						"app/assets/javascripts/models/_checkboxes.js.coffee"
+					],
+					[
+						"stepchec",
+						"app/assets/javascripts/models/steps/step_checkboxes.js.coffee"
+					],
+					[
+						"stepchev",
+						"app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkboxes_view.js.coffee"
+					],
+					[
+						"conmapvi",
+						"app/assets/javascripts/views/pages/configure/map_view/map_view.js.erb"
+					],
+					[
+						"destination",
+						"app/models/destination.rb"
+					],
+					[
+						"destinationtrip",
+						"app/models/destination_trip.rb"
+					],
+					[
+						"trip",
+						"app/models/trip.rb"
+					],
+					[
+						"pointto",
+						"app/queries/point_top.rb"
+					],
+					[
+						"point",
+						"app/controllers/points_controller.rb"
+					],
+					[
+						"destinationlink",
+						"app/models/destination_link.rb"
+					],
+					[
+						"modeldes",
+						"app/models/destination.rb"
+					],
+					[
+						"modeladmin",
+						"app/models/admin_code.rb"
+					],
+					[
+						"gem",
 						"Gemfile"
 					],
 					[
-						"costestimateind",
-						"app/views/admin/cost_estimates/index.html.haml"
+						"routedef",
+						"config/routes/0default.rb"
 					],
 					[
-						"admincostes",
-						"app/controllers/admin/cost_estimates_controller.rb"
-					],
-					[
-						"costest",
-						"app/controllers/cost_estimates_controller.rb"
-					],
-					[
-						"routeadmi",
-						"config/routes/admin.rb"
-					],
-					[
-						"modelcost",
-						"app/models/cost_estimate.rb"
-					],
-					[
-						"costmailercr",
-						"app/views/cost_estimate_mailer/created.html.haml"
-					],
-					[
-						"costmei",
-						"app/mailers/cost_estimate_mailer.rb"
-					],
-					[
-						"tripsr",
-						"lib/tasks/trips.rake"
-					],
-					[
-						"citiesr",
-						"lib/tasks/cities.rake"
+						"pointscon",
+						"app/controllers/points_controller.rb"
 					],
 					[
 						"g",
 						"Gemfile"
 					],
 					[
-						"data",
+						"admincitiesform",
+						"app/views/admin/cities/_form.html.haml"
+					],
+					[
+						"pointsform",
+						"app/views/admin/group_kind_tags/_form.html.haml"
+					],
+					[
+						"isedget",
+						"db/migrate/20131127100139_add_is_edge_stepable_to_points.rb"
+					],
+					[
+						"da",
 						"config/database.yml"
 					],
 					[
-						"newhtm",
-						"app/views/attributes_experts/new.html.haml"
+						"topsectionview",
+						"app/assets/javascripts/app/views/top_sections_view.js"
+					],
+					[
+						"applicationrout",
+						"app/assets/javascripts/app/routers/application_router.js"
+					],
+					[
+						"appinit",
+						"app/assets/javascripts/app/init.js"
+					],
+					[
+						"tripshowh",
+						"app/views/trips/show.html.haml"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"modeluser",
+						"app/models/user.rb"
+					],
+					[
+						"_header",
+						"app/views/trips/_header.html.haml"
+					],
+					[
+						"_dash",
+						"app/assets/stylesheets/sketch/content/_dashboard.scss"
+					],
+					[
+						"navda",
+						"app/views/shared/_nav_dashboard.html.haml"
+					],
+					[
+						"tripsinde",
+						"app/views/trips/index.html.haml"
+					],
+					[
+						"tripsind",
+						"app/views/admin/trips/index.html.haml"
+					],
+					[
+						"headersign",
+						"app/views/shared/_header_signed_in_left.html.haml"
+					],
+					[
+						"headerun",
+						"app/views/shared/_header_unsigned_in_left.html.haml"
+					],
+					[
+						"homeindex",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"datab",
+						"config/database.yml"
+					],
+					[
+						"fakefli",
+						"app/models/fake_flight_api.rb"
+					],
+					[
+						"airplane",
+						"app/models/airplane.rb"
+					],
+					[
+						"transportscon",
+						"app/controllers/transports_controller.rb"
+					],
+					[
+						"modeltransport",
+						"app/models/transport.rb"
+					],
+					[
+						"ghoststepview",
+						"app/assets/javascripts/views/pages/configure/timeline_view/ghost_step_view.js"
+					],
+					[
+						"confpoistepview",
+						"app/assets/javascripts/views/pages/configure/timeline_view/poi_step_view.js"
+					],
+					[
+						"configurema",
+						"app/assets/javascripts/configure_manifest.js"
+					],
+					[
+						"modeltrip",
+						"app/models/trip.rb"
+					],
+					[
+						"tripscon",
+						"app/controllers/trips_controller.rb"
+					],
+					[
+						"dashboardhtml",
+						"app/views/home/dashboard.html.haml"
+					],
+					[
+						"createtripmode",
+						"app/assets/javascripts/views/pages/dashboard/create_trip_modal_view.js.coffee"
+					],
+					[
+						"routes0de",
+						"config/routes/0default.rb"
+					],
+					[
+						"destination.r",
+						"app/models/destination.rb"
+					],
+					[
+						"createdestina",
+						"db/migrate/20131126102659_create_destination_trips.rb"
+					],
+					[
+						"createdesti",
+						"db/migrate/20131126102511_create_destination_trips.rb"
+					],
+					[
+						"color",
+						"app/assets/stylesheets/basics/_colors.scss"
+					],
+					[
+						"basicsimpl",
+						"app/assets/stylesheets/basics/_simplepage.scss"
+					],
+					[
+						"helperbri",
+						"app/assets/stylesheets/helpers/_brick.scss"
+					],
+					[
+						"helperele",
+						"app/assets/stylesheets/helpers/_elements.scss"
+					],
+					[
+						"configurecs",
+						"app/assets/stylesheets/pages/configure/configure.css.scss"
+					],
+					[
+						"helpermi",
+						"app/assets/stylesheets/helpers/_mixins.scss"
+					],
+					[
+						"basicsbase",
+						"app/assets/stylesheets/basics/_base.scss"
+					],
+					[
+						"basics",
+						"app/assets/stylesheets/basics/_basics.scss"
+					],
+					[
+						"mixins",
+						"app/assets/stylesheets/sketch/generics/_mixins.scss"
+					],
+					[
+						"commodalvie",
+						"app/assets/javascripts/views/components/modal_view/modal_view.js"
+					],
+					[
+						"modalvie",
+						"app/assets/javascripts/app/generics/modal_view.js"
+					],
+					[
+						"newtripvi",
+						"app/assets/javascripts/views/pages/dashboard/new_trip_view.js.coffee"
+					],
+					[
+						"dashinit",
+						"app/assets/javascripts/pages/home/dashboard_init.js.coffee"
+					],
+					[
+						"dashboardcss",
+						"app/assets/stylesheets/pages/home/dashboard.css.scss"
+					],
+					[
+						"buttoncss",
+						"app/assets/stylesheets/basics/_buttons.scss"
+					],
+					[
+						"connectionmode",
+						"app/assets/javascripts/views/pages/explore/connection_view/connection_modal_view.js.coffee"
+					],
+					[
+						"modelcoun",
+						"app/models/country.rb"
+					],
+					[
+						"dashhtml",
+						"app/views/home/dashboard.html.haml"
+					],
+					[
+						"destinacss",
+						"app/assets/stylesheets/pages/home/_destination_modal.scss"
+					],
+					[
+						"destinationmod",
+						"app/assets/javascripts/views/pages/dashboard/destination_modal_view.js.coffee"
+					],
+					[
+						"dashboardini",
+						"app/assets/javascripts/pages/home/dashboard_init.js.coffee"
+					],
+					[
+						"fonts",
+						"app/assets/stylesheets/basics/_fonts.scss"
+					],
+					[
+						"tripsindexman",
+						"app/assets/javascripts/trip_index_manifest.js"
+					],
+					[
+						"tripexplor",
+						"app/presenters/trips/explore_presenter.rb"
+					],
+					[
+						"modelview",
+						"app/assets/javascripts/views/components/modal_view/modal_view.js"
+					],
+					[
+						"newcon",
+						"app/assets/stylesheets/helpers/_newcontent.scss"
+					],
+					[
+						"tripindexht",
+						"app/views/trips/index.html.haml"
+					],
+					[
+						"simpage",
+						"app/assets/stylesheets/basics/_simplepage.scss"
+					],
+					[
+						"tripind",
+						"app/assets/stylesheets/pages/trips_index/trips_index.css.scss"
+					],
+					[
+						"configur",
+						"app/views/trips/configure.html.haml"
+					],
+					[
+						"homman",
+						"app/assets/javascripts/home_manifest.js"
+					],
+					[
+						"homescs",
+						"app/assets/stylesheets/pages/home/home.css.scss"
+					],
+					[
+						"modelus",
+						"app/assets/javascripts/models/user_session.js.coffee"
+					],
+					[
+						"sess",
+						"app/controllers/sessions_controller.rb"
+					],
+					[
+						"routesdef",
+						"config/routes/0default.rb"
+					],
+					[
+						"homeinde",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"homecon",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"adminde",
+						"app/assets/javascripts/admin_destination_form_manifest.js"
+					],
+					[
+						"admindef",
+						"app/assets/stylesheets/admin/_default.scss"
+					],
+					[
+						"destinationscs",
+						"app/assets/stylesheets/pages/admin/destinations.css.scss"
+					],
+					[
+						"adminappli",
+						"app/assets/stylesheets/admin_application.css.scss"
+					],
+					[
+						"destinationinde",
+						"app/views/admin/destinations/index.html.haml"
+					],
+					[
+						"adminapp",
+						"app/assets/javascripts/admin_application.js"
+					],
+					[
+						"_destinfi",
+						"app/views/admin/destinations/_destination_link_fields.html.haml"
+					],
+					[
+						"destination_for",
+						"app/views/admin/destinations/_form.html.haml"
+					],
+					[
+						"destinationlinkvie",
+						"app/assets/javascripts/admin/views/pages/destinations_form/destination_links_view.js.coffee"
+					],
+					[
+						"admindestinationco",
+						"app/controllers/admin/destinations_controller.rb"
+					],
+					[
+						"destinationco",
+						"app/controllers/destinations_controller.rb"
+					],
+					[
+						"destinationnew",
+						"app/views/admin/destinations/new.html.haml"
+					],
+					[
+						"destinationsindex",
+						"app/views/destinations/index.html.haml"
+					],
+					[
+						"sph",
+						"config/sphinx.yml"
+					],
+					[
+						"grid",
+						"app/assets/stylesheets/pages/explore/_itineraries_grid.scss"
+					],
+					[
+						"configurehtml",
+						"app/views/trips/configure.html.haml"
 					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"",
+						"/home/maxime/work/Rails-Carrierwave-jQuery-File-Upload/rails-carrierwave-jquery-file-upload.sublime-project"
+					]
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 238.0,
+			"side_bar_visible": false,
+			"side_bar_width": 330.0,
 			"status_bar_visible": true
 		},
 		"new_window_width": 0.0
@@ -271,142 +1696,545 @@
 				"selected_items":
 				[
 					[
-						"click",
-						"clickAddTravelAgent"
+						"count",
+						"country_by_place"
 					],
 					[
-						"mo",
+						"rome",
+						"rome2rio_leg"
+					],
+					[
+						"it",
+						"iteneray"
+					],
+					[
+						"lt",
+						"lat_lng"
+					],
+					[
+						"cla",
+						"cla	class .. < ParentClass .. initialize .. end"
+					],
+					[
+						"cl",
+						"cla	class .. < ParentClass .. initialize .. end"
+					],
+					[
+						"all",
+						"all_results"
+					],
+					[
+						"roe",
+						"rome2rio_segment"
+					],
+					[
+						"DE",
+						"DEFAULT_BY_PAGE"
+					],
+					[
+						"attr",
+						"attrr	Ruby attr_reader"
+					],
+					[
+						"day",
+						"day_array"
+					],
+					[
+						"ai",
+						"airline_id"
+					],
+					[
+						"icon",
+						"icon_size"
+					],
+					[
+						"air",
+						"airline_rome2rio"
+					],
+					[
+						"airline",
+						"airline"
+					],
+					[
+						"dest",
+						"destination_airport_id"
+					],
+					[
+						"des",
+						"destination_airport_id"
+					],
+					[
+						"or",
+						"orign_airport_id"
+					],
+					[
+						"ori",
+						"origin_id"
+					],
+					[
+						"bt",
+						"bt	belongs_to"
+					],
+					[
+						"context",
+						"contextName"
+					],
+					[
+						"conte",
+						"_contextName"
+					],
+					[
+						"_co",
+						"_contextName"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"_bi",
+						"_bindModelEvents"
+					],
+					[
+						"_ini",
+						"_initCitiesChooserView"
+					],
+					[
+						"city-",
+						"city-results"
+					],
+					[
+						"initDe",
+						"initDepartureCityChooserView"
+					],
+					[
+						"desti",
+						"destination"
+					],
+					[
+						"newT",
+						"newTabAction"
+					],
+					[
+						"tab",
+						"tabAction"
+					],
+					[
+						"tabA",
+						"tabActions"
+					],
+					[
+						"destroy",
+						"destroy"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"createNe",
+						"createNewTripView"
+					],
+					[
+						"_cr",
+						"_createDestinationNewLink"
+					],
+					[
+						"_l",
+						"_linkOutlets"
+					],
+					[
+						"addIn",
+						"addInfoObjectToHtml"
+					],
+					[
+						"search",
+						"search_and_merge_all_result"
+					],
+					[
+						"searc",
+						"search_admin_codes"
+					],
+					[
+						"sear",
+						"search_countries"
+					],
+					[
+						"coll",
+						"collections"
+					],
+					[
+						"_createS",
+						"_createSearchFormView"
+					],
+					[
+						"poi",
+						"points_by_admin_codes"
+					],
+					[
+						"hm",
+						"hm	has_many"
+					],
+					[
+						"co",
+						"con	Create controller class"
+					],
+					[
+						"flag",
+						"flags_only_flights"
+					],
+					[
+						"point",
+						"point_to_position"
+					],
+					[
+						"auth",
+						"authenticate"
+					],
+					[
+						"faceb",
+						"facebookUser"
+					],
+					[
+						"setUs",
+						"setUserToRegistrationViewAndPushI"
+					],
+					[
+						"authen",
+						"authentifications"
+					],
+					[
+						"find",
+						"find_by_email"
+					],
+					[
+						"Faceb",
+						"FacebookGuest"
+					],
+					[
+						"facebook",
+						"facebook_ajax"
+					],
+					[
+						"devise",
+						"devise_scope"
+					],
+					[
+						"getUser",
+						"getUserSuccess"
+					],
+					[
+						"fa",
+						"facebookButton"
+					],
+					[
+						"face",
+						"facebookButtonView"
+					],
+					[
+						"respon",
+						"responseLogin"
+					],
+					[
+						"login",
+						"loginSuccess"
+					],
+					[
+						"removeAll",
+						"removeAllError"
+					],
+					[
+						"navi",
+						"navigation"
+					],
+					[
+						"naviga",
+						"navigationView"
+					],
+					[
+						"removeLo",
+						"removeLoaderOnForm"
+					],
+					[
+						"sign",
+						"signInError"
+					],
+					[
+						"sin",
+						"signInError"
+					],
+					[
+						"lis",
+						"listenTo"
+					],
+					[
+						"acc",
+						"accomodation"
+					],
+					[
+						"acco",
+						"accomodations"
+					],
+					[
+						"Date",
+						"Date"
+					],
+					[
+						"mod",
 						"mod	module .. end"
 					],
 					[
-						"cost",
-						"costEstimates"
+						"font",
+						"font-size"
 					],
 					[
-						"cos",
-						"costEstimates"
+						"content",
+						"content-choose-mode"
+					],
+					[
+						"resl",
+						"result"
+					],
+					[
+						"cas",
+						"case	case … end"
+					],
+					[
+						"end",
+						"end_id"
+					],
+					[
+						"resu",
+						"result_api"
+					],
+					[
+						"fromMo",
+						"fromModelCoordinatesToLatLngs"
+					],
+					[
+						"tra",
+						"transport_steps"
+					],
+					[
+						"dire",
+						"direction_id"
+					],
+					[
+						"dir",
+						"direction"
+					],
+					[
+						"get",
+						"get_connexion"
+					],
+					[
+						"parse",
+						"parse_lat_lng"
+					],
+					[
+						"act",
+						"activitiesSteps"
+					],
+					[
+						"wit",
+						"withoutAccommodations"
+					],
+					[
+						"list",
+						"listenTo"
+					],
+					[
+						"aciti",
+						"activitiesDockView"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"dis",
+						"disabled"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"tr",
+						"transport_price"
+					],
+					[
+						"trans",
+						"transport_step_id"
+					],
+					[
+						"res",
+						"result_api"
+					],
+					[
+						"_create",
+						"_createPriceOptionsView"
+					],
+					[
+						"tran",
+						"transportStep"
+					],
+					[
+						"assi",
+						"assignAppend"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"fet",
+						"fetchPriceOptions"
+					],
+					[
+						"transportMode",
+						"transportModeRadiosView"
+					],
+					[
+						"extend",
+						"extend"
+					],
+					[
+						"head",
+						"header	Header-coffee"
+					],
+					[
+						"select",
+						"selectedIndexHasChanged"
+					],
+					[
+						"last_",
+						"last_date_time"
+					],
+					[
+						"prev",
+						"previous"
+					],
+					[
+						"model",
+						"model"
+					],
+					[
+						"onChan",
+						"OnChangeStartDate"
+					],
+					[
+						"begin",
+						"begin_position"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"price",
+						"price_category_name"
+					],
+					[
+						"desc",
+						"description"
+					],
+					[
+						"medium",
+						"medium_options"
+					],
+					[
+						"hi",
+						"high_options"
+					],
+					[
+						"dee",
+						"deeplink_params"
+					],
+					[
+						"first",
+						"first_fare"
+					],
+					[
+						"min",
+						"minimum_price"
+					],
+					[
+						"dep",
+						"departure_point_id"
+					],
+					[
+						"bann",
+						"banner-ruby	Banner-ruby"
+					],
+					[
+						"ban",
+						"banner-ruby	Banner-ruby"
+					],
+					[
+						"ba",
+						"banner-ruby	Banner-ruby"
+					],
+					[
+						"che",
+						"checkout_at"
+					],
+					[
+						"check",
+						"checkin_at"
+					],
+					[
+						"inter",
+						"inter_step"
+					],
+					[
+						"creet",
+						"create_inter_step"
+					],
+					[
+						"create",
+						"create_ts_and_ps"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/pages/cost_estimates_index/cost_estimates_index_init.js",
+					"file": "app/services/parse_segment.rb",
 					"settings":
 					{
-						"buffer_size": 520,
+						"buffer_size": 972,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/maxime/work/Libertrip/app/views/admin/cost_estimates/index.html.haml",
+					"file": "app/services/parse_transit_segment.rb",
 					"settings":
 					{
-						"buffer_size": 1023,
+						"buffer_size": 297,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/maxime/work/Libertrip/app/presenters/cost_estimates/admin_index_presenter.rb",
+					"contents": "class ParseLeg\n  def initialize(segment, rome2rio_leg, options = {})\n    @rome2rio_leg = rome2rio_leg\n    @all_results = options[:all_results]\n  end\n\n  def parse\n    \n  end\nend\n",
+					"file": "app/services/parse_leg.rb",
+					"file_size": 153,
+					"file_write_time": 1386255662000000,
 					"settings":
 					{
-						"buffer_size": 438,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/views/admin/cost_estimates/_cost_estimates.html.haml",
-					"settings":
-					{
-						"buffer_size": 1339,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/views/components/search_view.html.haml",
-					"settings":
-					{
-						"buffer_size": 1020,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/controllers/admin/travel_agents_controller.rb",
-					"settings":
-					{
-						"buffer_size": 945,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
-					"settings":
-					{
-						"buffer_size": 1278,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/controllers/admin/cost_estimates_controller.rb",
-					"settings":
-					{
-						"buffer_size": 362,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/presenters/trips/explore_presenter.rb",
-					"settings":
-					{
-						"buffer_size": 2009,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/models/cost_estimate.rb",
-					"settings":
-					{
-						"buffer_size": 1370,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/models/concerns/belongs_to_travel_agent.rb",
-					"settings":
-					{
-						"buffer_size": 255,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/cost_estimate_view.js",
-					"settings":
-					{
-						"buffer_size": 362,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection.js",
-					"settings":
-					{
-						"buffer_size": 232,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/assign_modal_view.js",
-					"settings":
-					{
-						"buffer_size": 217,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/maxime/work/Libertrip/app/presenters/travel_agents/admin_index_presenter.rb",
-					"settings":
-					{
-						"buffer_size": 283,
+						"buffer_size": 177,
 						"line_ending": "Unix"
 					}
 				}
@@ -414,20 +2242,228 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 337.0,
+				"height": 374.0,
 				"selected_items":
 				[
 					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"re",
+						"File: Rename"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"for",
+						"Format: Ruby"
+					],
+					[
+						"fo",
+						"Format: Ruby"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"r",
+						"File: Rename"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
+						"inp",
+						"Package Control: Install Package"
+					],
+					[
 						"in pa",
 						"Package Control: Install Package"
+					],
+					[
+						"form",
+						"Format: Ruby"
+					],
+					[
+						"set coff",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"lin",
+						"CoffeeLint: Lint code"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"compi",
+						"Coffee: Compile File"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"set ej",
+						"Set Syntax: EJS (<% and %>)"
+					],
+					[
+						"set ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"set co",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"cofe lin",
+						"CoffeeLint: Lint code"
+					],
+					[
+						"edit",
+						"Project: Edit"
+					],
+					[
+						"set rub",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"en",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"enc",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"ejs",
+						"Set Syntax: EJS (<% and %>)"
+					],
+					[
+						"lis pa",
+						"Package Control: List Packages"
+					],
+					[
+						"snip",
+						"Snippet: if"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"d",
+						"File: Delete"
+					],
+					[
+						"form ",
+						"Format: Ruby"
+					],
+					[
+						"m",
+						"File: Move"
+					],
+					[
+						"acti ",
+						"Snippet: module using ActiveSupport::Concern"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"prefen",
+						"Preferences: Settings - User"
+					],
+					[
+						"RENAM",
+						"File: Rename"
+					],
+					[
+						"form j",
+						"Format: Javascript"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"fomr",
+						"Format: Ruby"
+					],
+					[
+						"fom",
+						"Format: Javascript"
+					],
+					[
+						"file",
+						"File: Move"
+					],
+					[
+						"rn",
+						"File: Rename"
+					],
+					[
+						"set ry",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"settin",
+						"Preferences: Settings - User"
 					],
 					[
 						"set js",
 						"Set Syntax: JavaScript"
 					],
 					[
-						"in",
-						"Package Control: Install Package"
+						"set ejs",
+						"Set Syntax: EJS (<% and %>)"
+					],
+					[
+						"set rails",
+						"Set Syntax: Ruby on Rails"
 					],
 					[
 						"in l",
@@ -463,54 +2499,164 @@
 			},
 			"file_history":
 			[
-				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/search_view/search_collection.js",
-				"/home/maxime/work/Libertrip/app/controllers/cost_estimates_controller.rb",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection",
+				"/home/maxime/work/Libertrip/db/migrate/20131205130539_add_walk_car_info_to_segment.rb",
+				"/home/maxime/work/Libertrip/app/services/parse_walk_car_segment.rb",
+				"/home/maxime/work/Libertrip/app/models/segment.rb",
+				"/home/maxime/work/Libertrip/app/services/parse_segment.rb",
+				"/home/maxime/work/Libertrip/app/services/routes_by_points.rb",
+				"/home/maxime/work/Libertrip/app/services/factory_segment.rb",
+				"/home/maxime/work/Libertrip/app/services/parse_transit_segment.rb",
+				"/home/maxime/work/Libertrip/app/queries/point_by_lat_lng_and_name.rb",
+				"/home/maxime/work/Libertrip/app/services/parse_flight_segment.rb",
+				"/home/maxime/work/Libertrip/app/services/rome2rio_to_route.rb",
+				"/home/maxime/work/Libertrip/app/services/flight_route_by_points.rb",
+				"/home/maxime/work/Libertrip/app/models/route.rb",
+				"/home/maxime/work/Libertrip/app/models/segments/walk_car.rb",
+				"/home/maxime/work/Libertrip/app/models/segments/transit.rb",
+				"/home/maxime/work/Libertrip/app/models/point.rb",
+				"/home/maxime/work/Libertrip/app/controllers/cities_controller.rb",
+				"/home/maxime/work/Libertrip/app/models/country.rb",
+				"/home/maxime/work/Libertrip/app/queries/new_point_by_name_and_lat_lng.rb",
+				"/home/maxime/work/Libertrip/lib/rome2rio/connection_geocodable.rb",
+				"/home/maxime/work/Libertrip/lib/rome2rio/connection.rb",
+				"/home/maxime/work/Libertrip/config/application.rb",
+				"/home/maxime/work/Libertrip/app/models/segments/flight.rb",
+				"/home/maxime/work/Libertrip/app/models/direction.rb",
+				"/home/maxime/work/Libertrip/app/models/transport_step.rb",
+				"/home/maxime/work/Libertrip/app/models/segments/walk_car_segment.rb",
+				"/home/maxime/work/Libertrip/app/models/flight_segment.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131205101010_add_type_to_segment.rb",
+				"/home/maxime/work/Libertrip/app/models/accommodation.rb",
 				"/home/maxime/work/Libertrip/app/models/activity.rb",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/cost_estimate_view/city_search_collection.js",
-				"/home/maxime/work/Libertrip/app/models/concerns/BelongsToTravelAgent.rb",
-				"/home/maxime/work/Libertrip/app/models/concerns/stepable.rb",
-				"/home/maxime/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-				"/home/maxime/work/Libertrip/db/migrate/20130820083348_add_travel_agent_id_to_cost_estimates.rb",
-				"/home/maxime/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/maxime/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-				"/home/maxime/work/Libertrip/app/mailers/cost_estimate_mailer.rb",
-				"/home/maxime/work/Libertrip/app/views/cost_estimate_mailer/created.html.haml",
-				"/home/maxime/work/Libertrip/app/controllers/admin/cost_estimates_controller.rb",
-				"/home/maxime/work/Libertrip/app/views/admin/cost_estimates/index.html.haml",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin_cost_estimates_index_manifest.js",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/pages/cost_estimates_index/cost_estimates_index_boot.js",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/models/cost_estimate.js",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/modal_view/modal_view.js",
-				"/home/maxime/work/Libertrip/app/presenters/trips/admin_index_presenter.rb",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin_trip_index_manifest.js",
-				"/home/maxime/work/Libertrip/app/views/admin/trips/index.html.haml",
-				"/home/maxime/work/Libertrip/app/models/cost_estimate.rb",
-				"/home/maxime/work/Libertrip/config/routes/admin.rb",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/pages/trips_index/trip_index_init.js",
-				"/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/cost_estimates_index/cost_estimate_view.js",
-				"/home/maxime/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
-				"/home/maxime/work/Libertrip/app/views/admin/cost_estimates/show.html.haml",
-				"/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
-				"/home/maxime/work/Libertrip/app/views/admin/cost_estimates/_cost_estimates.html.haml",
-				"/home/maxime/work/Libertrip/app/models/concerns/clonable.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/geocodable.rb",
+				"/home/maxime/work/Libertrip/app/models/room.rb",
 				"/home/maxime/work/Libertrip/Gemfile",
-				"/home/maxime/work/Libertrip/views/admin/cost_estimates/show.html.haml",
-				"/home/maxime/work/Libertrip/lib/tasks/trips.rake",
-				"/home/maxime/work/Libertrip/lib/tasks/cities.rake",
+				"/home/maxime/work/Libertrip/app/services/hotel_finder.rb",
+				"/home/maxime/work/Libertrip/app/services/fake_rooms_for_accommodation.rb",
+				"/home/maxime/work/Libertrip/app/queries/hotel_by_point_query.rb",
+				"/home/maxime/work/Libertrip/app/services/expedia_to_accommodation.rb",
+				"/home/maxime/work/Libertrip/config/initializers/expedia.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131204170644_add_from_price_to_room.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131204111104_add_expedia_id_to_accommodation.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131204152919_add_expedia_thumbnail_url_to_accommodation.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131204160150_add_from_price_to_accommodation.rb",
+				"/home/maxime/work/Libertrip/app/queries/flights_by_points_query.rb",
+				"/home/maxime/work/Libertrip/app/value_objects/day_flags.rb",
+				"/home/maxime/work/Libertrip/app/models/user.rb",
+				"/home/maxime/work/Libertrip/app/controllers/registrations_controller.rb",
+				"/home/maxime/work/Libertrip/app/controllers/trips_controller.rb",
+				"/home/maxime/work/Libertrip/app/models/trip.rb",
+				"/home/maxime/work/Libertrip/app/mailers/notifier.rb",
+				"/home/maxime/work/Libertrip/app/views/notifier/send_first_trip_to.html.haml",
+				"/home/maxime/work/Libertrip/app/views/notifier/tell_his_friends_is_join.html.haml",
+				"/home/maxime/work/Libertrip/Gemfile.lock",
+				"/home/maxime/work/Libertrip/app/views/notifier/send_welcome_email_to.html.haml",
+				"/home/maxime/work/Libertrip/app/models/leg.rb",
+				"/home/maxime/work/Libertrip/app/models/hop.rb",
+				"/home/maxime/work/Libertrip/app/models/airline.rb",
+				"/home/maxime/work/Libertrip/app/models/airport.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131203153929_add_indicative_price_to_segment.rb",
+				"/home/maxime/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/maxime/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/maxime/work/Libertrip/db/migrate/20131203133617_add_position_to_airport.rb",
+				"/home/maxime/work/Libertrip/app/views/admin/activities/index.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/activities/_nav.html.haml",
+				"/home/maxime/work/Libertrip/app/views/admin/cities/new.html.haml",
+				"/home/maxime/work/Libertrip/lib/tasks/activities.rake",
+				"/home/maxime/work/Libertrip/db/migrate/20131202141648_destroy_table_rooms.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20120430102638_destroy_steps.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131202141047_create_rooms.rb",
+				"/home/maxime/work/Libertrip/db/migrate/20131202104941_create_accommodations.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/ratingable.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/point_ratached.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/has_many_opinions.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/belongs_to_category.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/has_many_pictures.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/price_by_room.rb",
+				"/home/maxime/work/Libertrip/app/models/concerns/clonable.rb",
+				"/home/maxime/work/Libertrip/lib/tasks/destinations.rake",
+				"/home/maxime/work/Libertrip/app/models/destination.rb",
+				"/home/maxime/work/Libertrip/app/models/destination_link.rb",
+				"/home/maxime/work/Libertrip/app/models/destination_trip.rb",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/home/_destination_modal.scss",
+				"/home/maxime/work/Libertrip/app/controllers/points_controller.rb",
+				"/home/maxime/work/Libertrip/lib/tasks/accommdations.rake",
+				"/home/maxime/work/Libertrip/config/routes/0default.rb",
+				"/home/maxime/work/Libertrip/app/controllers/home_controller.rb",
+				"/home/maxime/work/Libertrip/app/views/home/index.html.haml",
+				"/home/maxime/work/Libertrip/app/views/layouts/new_mvp.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/_flatheader.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/flatheader/_flatheader_signed_in.html.haml",
+				"/home/maxime/work/Libertrip/app/views/shared/flatheader/_part_right_flatheader_signed_in.html.haml",
+				"/home/maxime/work/Libertrip/app/views/trips/configure.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/edge_step_content_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/trip.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/chooser_cities_collection.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/location.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/edge_step.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/transport_step.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/models/steps/_step.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/city_chooser_popin_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/city_chooser_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/cities_chooser_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/libraries/backbone/backbone.viewevents.js",
+				"/home/maxime/work/Libertrip/app/assets/templates/pages/configure/edge_step_inspector/city_chooser_popin.jst.ejs",
+				"/home/maxime/work/Libertrip/app/views/components/popin_view.html.haml",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/popin_view/popin_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/scroll_view/scroll_view.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/configure/inspector_view/_edge_step_content_view.scss",
+				"/home/maxime/work/Libertrip/app/assets/templates/pages/configure/edge_step_inspector/city_chooser.jst.ejs",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/libraries/backbone/backbone.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/models/transport_step.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/components/checkboxes_view/checkboxes_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkboxes_view.js.coffee",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/list_city_chooser_view.js.coffee",
 				"/home/maxime/work/Libertrip/config/database.yml",
-				"/home/maxime/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-				"/home/maxime/work/Libertrip/app/views/attributes_experts/new.html.haml"
+				"/home/maxime/work/Libertrip/app/controllers/application_controller.rb",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/app/views/general/tracker_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/common/views/top_sections/social/comments_view.js",
+				"/home/maxime/work/Libertrip/app/views/trips/show.html.haml",
+				"/home/maxime/work/Libertrip/config/locales/views/home/en.yml",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/sketch/header/_share_trip.scss",
+				"/home/maxime/work/Libertrip/app/views/home/_jobs.haml",
+				"/home/maxime/work/Libertrip/app/assets/templates/pages/configure/edge_step_inspector/edge_step_content.jst.ejs",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/libraries/backbone/backbone.assignation.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/common/views/datepickers/departure_datepicker_view.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/components/_popin_view.scss",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/helpers/_mixins.scss",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/common/views/datepicker_view.js",
+				"/home/maxime/work/Libertrip/app/assets/javascripts/views/pages/configure/share_view/share_view.js",
+				"/home/maxime/work/Libertrip/app/assets/stylesheets/pages/configure/configure.css.scss"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
 				"height": 0.0,
 				"where_history":
 				[
+					"/home/maxime/work/Libertrip/",
+					"/home/maxime/work/Libertrip/app/",
+					"/home/maxime/work/Libertrip/app/views/notifier",
+					"/home/maxime/work/Libertrip/",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/assets",
+					"/home/maxime/work/Libertrip/",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/app/models",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip/app/assets/stylesheet",
+					"/home/maxime/work/Libertrip/app/assets",
+					"/home/maxime/work/Libertrip/app",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip/app/helpers",
+					"/home/maxime/work/Libertrip/app/assets/stylesheets",
+					"/home/maxime/work/Libertrip"
 				]
 			},
 			"find_state":
@@ -518,18 +2664,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"Trip",
+					"people",
+					"belongs_to",
+					"airport",
+					"kind",
+					"accommodation",
+					"point",
+					"accomodation",
+					"point",
+					"I18n.enforce_available_locales",
+					"faraday",
+					"to_s",
+					"position",
+					"orign_airport",
+					" ,",
+					"accomodation",
+					"%;\n",
+					"dashboard",
+					"else",
+					"CityChooserView",
+					"departure",
+					"App.Views.PopinView",
+					"200",
+					"getPictureUrl",
+					"App.Views.StepCheckboxesView",
+					"highlighted",
+					"expert",
+					"Common.Views.ExpertsListView",
+					"component",
+					"...",
+					"params",
+					";\n",
+					"200",
+					"trips",
+					"iscussion",
+					"home",
+					"Home",
+					"after_sign_in_path_for",
+					"pry",
+					"afterSelected",
+					"class_name ",
+					"display_input",
 					"trip",
-					"Trip",
-					"trip",
-					"accomdation_row",
-					"libertrip",
-					"roger",
-					"libertrip",
-					"myapp_test",
-					"myapp",
-					"myapp_test",
-					"myapp"
+					"new",
+					"endR",
+					"Integer",
+					"api",
+					"accomdations",
+					"true",
+					"form-horizontal",
+					"this",
+					"modal",
+					"className",
+					"this",
+					"    \n",
+					"connector_provider_data",
+					"create_by_facebook",
+					"    \n",
+					"authReponse",
+					"users",
+					"first trip",
+					"Claire",
+					"Lesage",
+					"libertrip_development",
+					"coffee-rails",
+					"height",
+					"value",
+					".shake",
+					"PointStepContentNavigationView",
+					"App.views.connectionView",
+					"showModal",
+					"\nrenderForm\n\nrenderForm\n",
+					"alert(\"error\")",
+					"alert('error')",
+					"self",
+					"ConnectionView",
+					"rr",
+					"hotel",
+					"CsvToAccommodation",
+					"CsvCloud",
+					"this",
+					"@",
+					"(@start_date",
+					"@",
+					"haml",
+					"timeline_bar",
+					"haml",
+					"i18n",
+					"hamlcoffee",
+					"phrase",
+					"self",
+					"didResize:",
+					"didAppear:",
+					"getInspectorContent",
+					"_createInspectorContent",
+					"App.Views.TransportStepInspectorView",
+					"ts",
+					"self.origin",
+					":float",
+					"key",
+					"latitude",
+					"$CIRCLE_SHA1",
+					"BRANCH",
+					"refs/heads/master",
+					"Configure",
+					"has_many",
+					"setElement",
+					"delegateEvents()",
+					"_bindEvents()",
+					"tyes",
+					"MAX_CELLS",
+					"back-button",
+					"button-back",
+					"btn-back",
+					"back",
+					";\n",
+					"activities",
+					"App.Views.RadioView",
+					"type",
+					"App.Views.RadioView",
+					"number",
+					"transportOptionsView",
+					"installTransportOptionsView",
+					"TransportOptionsView",
+					"transportOptionsView",
+					"transportStep",
+					"transports",
+					"transport_step",
+					"_elementHasBeenUnpicked\n_elementHasBeenPicked\n_elementHasBeenPicked"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -544,37 +2806,120 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "/home/maxime/work/Libertrip"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 5,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/pages/cost_estimates_index/cost_estimates_index_init.js",
+							"file": "app/services/parse_segment.rb",
 							"settings":
 							{
-								"buffer_size": 520,
+								"buffer_size": 972,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										420,
-										420
+										797,
+										797
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
@@ -586,135 +2931,112 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/maxime/work/Libertrip/app/views/admin/cost_estimates/index.html.haml",
+							"file": "app/services/parse_transit_segment.rb",
 							"settings":
 							{
-								"buffer_size": 1023,
+								"buffer_size": 297,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										785,
-										785
+										297,
+										297
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/maxime/work/Libertrip/app/presenters/cost_estimates/admin_index_presenter.rb",
-							"settings":
-							{
-								"buffer_size": 438,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"annotations":
 									[
-										438,
-										438
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/maxime/work/Libertrip/app/views/admin/cost_estimates/_cost_estimates.html.haml",
-							"settings":
-							{
-								"buffer_size": 1339,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
 									[
-										169,
-										169
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/maxime/work/Libertrip/app/views/components/search_view.html.haml",
-							"settings":
-							{
-								"buffer_size": 1020,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										110.0
+									],
+									"gjslint_options":
 									[
-										239,
-										239
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/maxime/work/Libertrip/app/controllers/admin/travel_agents_controller.rb",
-							"settings":
-							{
-								"buffer_size": 945,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
 									[
-										319,
-										319
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
@@ -727,246 +3049,117 @@
 					]
 				},
 				{
-					"selected": 8,
+					"selected": 0,
 					"sheets":
 					[
 						{
-							"buffer": 6,
-							"file": "/home/maxime/work/Libertrip/app/views/trips/index.html.haml",
+							"buffer": 2,
+							"file": "app/services/parse_leg.rb",
 							"settings":
 							{
-								"buffer_size": 1278,
+								"buffer_size": 177,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										161,
+										161
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/maxime/work/Libertrip/app/controllers/admin/cost_estimates_controller.rb",
-							"settings":
-							{
-								"buffer_size": 362,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									"annotations":
 									[
-										73,
-										73
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/home/maxime/work/Libertrip/app/presenters/trips/explore_presenter.rb",
-							"settings":
-							{
-								"buffer_size": 2009,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
 									[
-										378,
-										378
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/home/maxime/work/Libertrip/app/models/cost_estimate.rb",
-							"settings":
-							{
-								"buffer_size": 1370,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										110.0
+									],
+									"gjslint_options":
 									[
-										596,
-										596
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 60.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"file": "/home/maxime/work/Libertrip/app/models/concerns/belongs_to_travel_agent.rb",
-							"settings":
-							{
-								"buffer_size": 255,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
 									[
-										255,
-										255
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/cost_estimate_view.js",
-							"settings":
-							{
-								"buffer_size": 362,
-								"regions":
-								{
-								},
-								"selection":
-								[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
 									[
-										217,
-										217
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 12,
-							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/travel_agent_collection.js",
-							"settings":
-							{
-								"buffer_size": 232,
-								"regions":
-								{
-								},
-								"selection":
-								[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
 									[
-										232,
-										232
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 13,
-							"file": "/home/maxime/work/Libertrip/app/assets/javascripts/admin/views/pages/cost_estimates_index/assign_modal_view.js",
-							"settings":
-							{
-								"buffer_size": 217,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										212,
-										212
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 14,
-							"file": "/home/maxime/work/Libertrip/app/presenters/travel_agents/admin_index_presenter.rb",
-							"settings":
-							{
-								"buffer_size": 283,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										278,
-										278
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": true,
+									"sublimelinter_gutter_marks_theme": "simple",
+									"sublimelinter_mark_style": "none",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -983,7 +3176,7 @@
 			},
 			"input":
 			{
-				"height": 37.0
+				"height": 41.0
 			},
 			"layout":
 			{
@@ -1015,11 +3208,15 @@
 				]
 			},
 			"menu_visible": true,
+			"output.CoffeeLintPanel":
+			{
+				"height": 134.0
+			},
 			"output.exec":
 			{
 				"height": 128.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,3286,1080",
+			"position": "0,1,0,0,0,1366,24,2006,504,3286,1080",
 			"replace":
 			{
 				"height": 0.0
@@ -1031,178 +3228,549 @@
 				"selected_items":
 				[
 					[
-						"travelagentp",
-						"app/presenters/travel_agents/admin_index_presenter.rb"
+						"parsetr",
+						"app/services/parse_transit_segment.rb"
 					],
 					[
-						"admintravela",
-						"app/controllers/admin/travel_agents_controller.rb"
+						"parsewal",
+						"app/services/parse_walk_car_segment.rb"
 					],
 					[
-						"admincost",
-						"app/controllers/admin/cost_estimates_controller.rb"
+						"parses",
+						"app/services/parse_segment.rb"
 					],
 					[
-						"costes",
-						"app/controllers/cost_estimates_controller.rb"
+						"modelseg",
+						"app/models/segment.rb"
 					],
 					[
-						"searchcol",
-						"app/assets/javascripts/views/components/search_view/search_collection.js"
+						"addwal",
+						"db/migrate/20131205130539_add_walk_car_info_to_segment.rb"
 					],
 					[
-						"citysearch",
-						"app/assets/javascripts/views/pages/configure/cost_estimate_view/city_search_collection.js"
+						"country",
+						"app/models/country.rb"
 					],
 					[
-						"searchview",
-						"app/views/components/search_view.html.haml"
+						"a",
+						"config/application.rb"
 					],
 					[
-						"costestimateview",
-						"app/assets/javascripts/admin/views/pages/cost_estimates_index/cost_estimate_view.js"
+						"addwalk",
+						"db/migrate/20131205130539_add_walk_car_info_to_segment.rb"
 					],
 					[
-						"activity",
+						"addwalkcar",
+						"db/migrate/20131205130539_add_walk_car_info_to_segment.rb"
+					],
+					[
+						"transport_ste",
+						"app/models/transport_step.rb"
+					],
+					[
+						"citiescon",
+						"app/controllers/cities_controller.rb"
+					],
+					[
+						"modelpoint",
+						"app/models/point.rb"
+					],
+					[
+						"addtypeto",
+						"db/migrate/20131205101010_add_type_to_segment.rb"
+					],
+					[
+						"modelrout",
+						"app/models/route.rb"
+					],
+					[
+						"rome",
+						"app/services/rome2rio_to_route.rb"
+					],
+					[
+						"routeby",
+						"app/services/routes_by_points.rb"
+					],
+					[
+						"addfromp",
+						"db/migrate/20131204170644_add_from_price_to_room.rb"
+					],
+					[
+						"addfrom",
+						"db/migrate/20131204160150_add_from_price_to_accommodation.rb"
+					],
+					[
+						"modelroo",
+						"app/models/room.rb"
+					],
+					[
+						"geocode",
+						"app/models/concerns/geocodable.rb"
+					],
+					[
+						"modelacti",
 						"app/models/activity.rb"
 					],
 					[
-						"view_cost",
-						"app/views/admin/cost_estimates/_cost_estimates.html.haml"
+						"flighby",
+						"app/queries/flights_by_points_query.rb"
 					],
 					[
-						"modelconser",
-						"app/models/concerns/stepable.rb"
+						"addfromprice",
+						"db/migrate/20131204160150_add_from_price_to_accommodation.rb"
 					],
 					[
-						"modelcost",
-						"app/models/cost_estimate.rb"
+						"dayfl",
+						"app/value_objects/day_flags.rb"
 					],
 					[
-						"costest",
-						"app/controllers/cost_estimates_controller.rb"
+						"addex",
+						"db/migrate/20131204152919_add_expedia_thumbnail_url_to_accommodation.rb"
 					],
 					[
-						"addtravelagentid",
-						"db/migrate/20130820083348_add_travel_agent_id_to_cost_estimates.rb"
+						"addexp",
+						"db/migrate/20131204111104_add_expedia_id_to_accommodation.rb"
 					],
 					[
-						"tripspresen",
-						"app/presenters/trips/explore_presenter.rb"
+						"addexpe",
+						"db/migrate/20131204111104_add_expedia_id_to_accommodation.rb"
 					],
 					[
-						"admincostcont",
-						"app/controllers/admin/cost_estimates_controller.rb"
+						"modelacco",
+						"app/models/accommodation.rb"
 					],
 					[
-						"tripsindex",
-						"app/views/trips/index.html.haml"
+						"expe",
+						"config/initializers/expedia.rb"
 					],
 					[
-						"admincostindex",
-						"app/views/admin/cost_estimates/index.html.haml"
+						"sendwel",
+						"app/views/notifier/send_welcome_email_to.html.haml"
 					],
 					[
-						"presentertrip",
-						"app/presenters/trips/admin_index_presenter.rb"
+						"noti",
+						"app/mailers/notifier.rb"
 					],
 					[
-						"presentcost",
-						"app/presenters/cost_estimates/admin_index_presenter.rb"
-					],
-					[
-						"tripsindexint",
-						"app/assets/javascripts/admin/pages/trips_index/trip_index_init.js"
-					],
-					[
-						"admintripindex",
-						"app/assets/javascripts/admin_trip_index_manifest.js"
-					],
-					[
-						"admintripinde",
-						"app/views/admin/trips/index.html.haml"
-					],
-					[
-						"tripsinde",
-						"app/views/trips/index.html.haml"
-					],
-					[
-						"clona",
-						"app/models/concerns/clonable.rb"
-					],
-					[
-						"_cost",
-						"app/views/admin/cost_estimates/_cost_estimates.html.haml"
+						"gem",
+						"Gemfile.lock"
 					],
 					[
 						"gemf",
 						"Gemfile"
 					],
 					[
-						"costestimateind",
-						"app/views/admin/cost_estimates/index.html.haml"
+						"tellhis",
+						"app/views/notifier/tell_his_friends_is_join.html.haml"
 					],
 					[
-						"admincostes",
-						"app/controllers/admin/cost_estimates_controller.rb"
+						"welcome",
+						"app/views/notifier/send_welcome_email_to.html.haml"
 					],
 					[
-						"routeadmi",
-						"config/routes/admin.rb"
+						"send_first",
+						"app/views/notifier/send_first_trip_to.html.haml"
 					],
 					[
-						"costmailercr",
-						"app/views/cost_estimate_mailer/created.html.haml"
+						"notif",
+						"app/mailers/notifier.rb"
 					],
 					[
-						"costmei",
-						"app/mailers/cost_estimate_mailer.rb"
+						"modeluser",
+						"app/models/user.rb"
 					],
 					[
-						"tripsr",
-						"lib/tasks/trips.rake"
+						"modeltrip",
+						"app/models/trip.rb"
 					],
 					[
-						"citiesr",
-						"lib/tasks/cities.rake"
+						"tripscon",
+						"app/controllers/trips_controller.rb"
 					],
 					[
-						"g",
+						"regi",
+						"app/controllers/registrations_controller.rb"
+					],
+					[
+						"",
+						"app/models/user.rb"
+					],
+					[
+						"addindic",
+						"db/migrate/20131203153929_add_indicative_price_to_segment.rb"
+					],
+					[
+						"addposit",
+						"db/migrate/20131203133617_add_position_to_airport.rb"
+					],
+					[
+						"modelair",
+						"app/models/airport.rb"
+					],
+					[
+						"modelairpo",
+						"app/models/airport.rb"
+					],
+					[
+						"transportsteprb",
+						"app/models/transport_step.rb"
+					],
+					[
+						"gemfi",
 						"Gemfile"
+					],
+					[
+						"hop.",
+						"app/models/hop.rb"
+					],
+					[
+						"leg",
+						"app/models/leg.rb"
+					],
+					[
+						"segm",
+						"app/models/segment.rb"
+					],
+					[
+						"rout",
+						"app/models/route.rb"
+					],
+					[
+						"acrake",
+						"lib/tasks/activities.rake"
+					],
+					[
+						"activinav",
+						"app/views/admin/activities/_nav.html.haml"
+					],
+					[
+						"activitiesindex",
+						"app/views/admin/activities/index.html.haml"
+					],
+					[
+						"citiesnew",
+						"app/views/admin/cities/new.html.haml"
+					],
+					[
+						"destroy",
+						"db/migrate/20131202141648_destroy_table_rooms.rb"
+					],
+					[
+						"createroo",
+						"db/migrate/20131202141047_create_rooms.rb"
+					],
+					[
+						"modelacc",
+						"app/models/accommodation.rb"
+					],
+					[
+						"clona",
+						"app/models/concerns/clonable.rb"
+					],
+					[
+						"priceb",
+						"app/models/concerns/price_by_room.rb"
+					],
+					[
+						"hasmanypic",
+						"app/models/concerns/has_many_pictures.rb"
+					],
+					[
+						"belongsto",
+						"app/models/concerns/belongs_to_category.rb"
+					],
+					[
+						"hasmanyop",
+						"app/models/concerns/has_many_opinions.rb"
+					],
+					[
+						"pointra",
+						"app/models/concerns/point_ratached.rb"
+					],
+					[
+						"ratinga",
+						"app/models/concerns/ratingable.rb"
+					],
+					[
+						"acco",
+						"app/models/accommodation.rb"
+					],
+					[
+						"gecodabl",
+						"app/models/concerns/geocodable.rb"
+					],
+					[
+						"createacco",
+						"db/migrate/20131202104941_create_accommodations.rb"
+					],
+					[
+						"pointscon",
+						"app/controllers/points_controller.rb"
+					],
+					[
+						"_destinatio",
+						"app/assets/stylesheets/pages/home/_destination_modal.scss"
+					],
+					[
+						"destinationtrip",
+						"app/models/destination_trip.rb"
+					],
+					[
+						"destinationlin",
+						"app/models/destination_link.rb"
+					],
+					[
+						"modeldes",
+						"app/models/destination.rb"
+					],
+					[
+						"destinations",
+						"lib/tasks/destinations.rake"
+					],
+					[
+						"configurehtml",
+						"app/views/trips/configure.html.haml"
+					],
+					[
+						"partri",
+						"app/views/shared/flatheader/_part_right_flatheader_signed_in.html.haml"
+					],
+					[
+						"flatheadersign",
+						"app/views/shared/flatheader/_flatheader_signed_in.html.haml"
+					],
+					[
+						"flath",
+						"app/views/shared/_flatheader.html.haml"
+					],
+					[
+						"newm",
+						"app/views/layouts/new_mvp.html.haml"
+					],
+					[
+						"homeinde",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"homecont",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"routedef",
+						"config/routes/0default.rb"
+					],
+					[
+						"citychoos",
+						"app/assets/templates/pages/configure/edge_step_inspector/city_chooser_popin.jst.ejs"
+					],
+					[
+						"_step",
+						"app/assets/javascripts/models/steps/_step.js"
+					],
+					[
+						"modeltransportstep",
+						"app/assets/javascripts/models/steps/transport_step.js"
+					],
+					[
+						"transportstep",
+						"app/assets/javascripts/app/models/transport_step.js"
+					],
+					[
+						"edgestepjs",
+						"app/assets/javascripts/models/steps/edge_step.js"
+					],
+					[
+						"modellocation",
+						"app/assets/javascripts/models/steps/location.js"
+					],
+					[
+						"choos",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/chooser_cities_collection.js.coffee"
+					],
+					[
+						"trip.js",
+						"app/assets/javascripts/models/trip.js"
+					],
+					[
+						"edgestepcon",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/edge_step_content_view.js"
+					],
+					[
+						"citychoo",
+						"app/assets/templates/pages/configure/edge_step_inspector/city_chooser_popin.jst.ejs"
+					],
+					[
+						"stepconvics",
+						"app/assets/stylesheets/pages/configure/inspector_view/_edge_step_content_view.scss"
+					],
+					[
+						"back",
+						"app/assets/javascripts/libraries/backbone/backbone.js"
+					],
+					[
+						"stepcheck",
+						"app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkboxes_view.js.coffee"
+					],
+					[
+						"chocollect",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/chooser_cities_collection.js.coffee"
+					],
+					[
+						"checkbo",
+						"app/assets/javascripts/views/components/checkboxes_view/checkboxes_view.js.coffee"
+					],
+					[
+						"scrollview",
+						"app/assets/javascripts/views/components/scroll_view/scroll_view.js"
+					],
+					[
+						"popinviewjs",
+						"app/assets/javascripts/views/components/popin_view/popin_view.js"
+					],
+					[
+						"popinview",
+						"app/views/components/popin_view.html.haml"
+					],
+					[
+						"cich",
+						"app/assets/templates/pages/configure/edge_step_inspector/city_chooser_popin.jst.ejs"
+					],
+					[
+						"citiescho",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/cities_chooser_view.js.coffee"
+					],
+					[
+						"citpo",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/city_chooser_popin_view.js.coffee"
+					],
+					[
+						"listcity",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/list_city_chooser_view.js.coffee"
+					],
+					[
+						"citychooview",
+						"app/assets/javascripts/views/pages/configure/inspector_view/edge_step_inspector/city_chooser_view.js.coffee"
 					],
 					[
 						"data",
 						"config/database.yml"
 					],
 					[
-						"newhtm",
-						"app/views/attributes_experts/new.html.haml"
+						"jobs",
+						"app/views/home/_jobs.haml"
+					],
+					[
+						"sharetrips",
+						"app/assets/stylesheets/sketch/header/_share_trip.scss"
+					],
+					[
+						"homeen.yml",
+						"config/locales/views/home/en.yml"
+					],
+					[
+						"controllertrips",
+						"app/controllers/trips_controller.rb"
+					],
+					[
+						"tripsshow",
+						"app/views/trips/show.html.haml"
+					],
+					[
+						"commentsview.js",
+						"app/assets/javascripts/common/views/top_sections/social/comments_view.js"
+					],
+					[
+						"trackerview",
+						"app/assets/javascripts/app/views/general/tracker_view.js"
+					],
+					[
+						"registration",
+						"app/controllers/registrations_controller.rb"
+					],
+					[
+						"application",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"checkboxesvie",
+						"app/assets/javascripts/views/components/checkboxes_view/checkboxes_view.js.coffee"
+					],
+					[
+						"pointstepchec",
+						"app/assets/javascripts/views/pages/configure/inspector_view/step_selection/step_checkboxes_view.js.coffee"
+					],
+					[
+						"checboxes",
+						"app/assets/javascripts/views/components/checkboxes_view/checkboxes_view.js.coffee"
+					],
+					[
+						"backbonass",
+						"app/assets/javascripts/libraries/backbone/backbone.assignation.js"
+					],
+					[
+						"popinvijs",
+						"app/assets/javascripts/views/components/popin_view/popin_view.js"
+					],
+					[
+						"edgestepcont",
+						"app/assets/templates/pages/configure/edge_step_inspector/edge_step_content.jst.ejs"
+					],
+					[
+						"0defu",
+						"config/routes/0default.rb"
+					],
+					[
+						"helpermix",
+						"app/assets/stylesheets/helpers/_mixins.scss"
+					],
+					[
+						"backboneass",
+						"app/assets/javascripts/libraries/backbone/backbone.assignation.js"
+					],
+					[
+						"componentpoi",
+						"app/assets/stylesheets/components/_popin_view.scss"
+					],
+					[
+						"datepickervi",
+						"app/assets/javascripts/common/views/datepicker_view.js"
+					],
+					[
+						"departe",
+						"app/assets/javascripts/common/views/datepickers/departure_datepicker_view.js"
 					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"",
+						"/home/maxime/work/Rails-Carrierwave-jQuery-File-Upload/rails-carrierwave-jquery-file-upload.sublime-project"
+					]
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 238.0,
+			"side_bar_width": 330.0,
 			"status_bar_visible": true,
-			"window_id": 1,
-			"workspace_name": ""
+			"window_id": 15,
+			"workspace_name": "/home/maxime/work/Libertrip/Libertrip.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/home/maxime/work/Libertrip/Libertrip.sublime-project",
+			"/home/maxime/work/brazil-margaux/brazil-margaux.sublime-project",
+			"/home/maxime/work/Rails-Carrierwave-jQuery-File-Upload/rails-carrierwave-jquery-file-upload.sublime-project"
 		]
 	}
 }

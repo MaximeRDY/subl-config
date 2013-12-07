@@ -1,7 +1,7 @@
 {
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
 	"draw_indent_guides": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -25,7 +25,8 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		".scssc"
+		".scssc",
+		"*.map"
 	],
 	"folder_exclude_patterns":
 	[
@@ -37,10 +38,11 @@
 		".bundle",
 		"vendor/cache",
 		"tmp",
-		"coverage"
+		"coverage",
+		"public/assets"
 	],
 	"font_face": "Inconsolata",
-	"font_size": 11.0,
+	"font_size": 14.0,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -53,10 +55,12 @@
 		70,
 		80
 	],
+	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": false,
-	"use_tab_stops": true
+	"use_tabs_to_stop": true,
+	"word_wrap": true
 }

@@ -2,16 +2,24 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Backbone.js",
+		"CoffeeLint",
+		"CoffeeScript",
+		"EJS",
 		"Haml",
 		"JavaScript and jQuery API Completions",
+		"jQuery Snippets pack",
+		"JsFormat",
 		"Package Control",
 		"QuickRails",
 		"Rails Developer Snippets",
 		"Rails Partial",
 		"Ruby on Rails snippets",
 		"RubyCheckOnSave",
+		"RubyFormat",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"Theme - Flatland",
 		"TrailingSpaces"
 	]
